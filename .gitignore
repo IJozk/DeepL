@@ -9,5 +9,9 @@ tf_env/
 
 /*.gz
 
+# Imagenes en carpetas
+/simpsons_testset
+/simpsons_train
+
 # Jupyter Notebook
 .ipynb_checkpoints
